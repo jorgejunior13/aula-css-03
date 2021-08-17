@@ -1,0 +1,14 @@
+body{
+    color: green;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+p::first-letter{
+    
+    text-transform: uppercase;
+
+    
+}
+
